@@ -15,10 +15,10 @@
 
     * Regla 4. El elemento `body` tendrá margen `0` y relleno de `20%` únicamente a la derecha y izquierda
 
-    * Regla 5. El elemento `img` tendra un `border-radius`con valor de `10px` y un `height` de 250px
+    * Regla 5. El elemento `img` tendra un `border-radius`con valor de `10px`, un `height` de 250px y un `margin left` a un 20%
 
     * Regla 6. El elemento `h1, h2` tendran esquinas redondeadas `border-radius` con valor de `10px` y tendrán un relleno de 5%, un `border: solid white 1px;` 
-    y un color de fondo de rgb `rgb(43, 42, 42);`
+    y un color de fondo de rgb `rgb(43, 42, 42);` y un texto alineado al centro.
 
     * Regla 7. Los elementos `strong` tendran que estar subrayados de color negro.
 
@@ -26,4 +26,4 @@
 
     * Regla 9. El elemento `h3` tendra un color `aqua` y un subrayado de color violeta.
 
-    * Regla 10. Los elementos `a` tendran esquinas redondeadas `border-radius` con valor de `20px` y tendrán un relleno de 5%, un `border: solid black 2px;`
+    * Regla 10. Los elementos `a` tendran esquinas redondeadas `border-radius` con valor de `20px` y un `border: solid black 2px;`
